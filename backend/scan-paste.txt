@@ -1,0 +1,10 @@
+AON-120	Cosmic Anomaly	Combat Site	Gallente Novice Outpost	100.0%	12.67 AU
+DEV-500	Cosmic Signature			0.0%	22.18 AU
+ILF-006	Cosmic Signature			0.0%	12.33 AU
+JZR-606	Cosmic Anomaly	Combat Site	Gallente Small Outpost	100.0%	12.90 AU
+NKB-156	Cosmic Anomaly	Combat Site	Gallente Small Facility	100.0%	26.37 AU
+RSG-370	Cosmic Signature			0.0%	13.39 AU
+USW-424	Cosmic Anomaly	Combat Site	Gallente Medium Outpost	100.0%	25.39 AU
+UXX-300	Cosmic Signature			0.0%	13.76 AU
+ZKK-479	Cosmic Anomaly	Combat Site	Gallente Large Outpost	100.0%	25.83 AU
+ZKP-326	Cosmic Anomaly	Combat Site	Gallente Small Installation	100.0%	11.99 AU
